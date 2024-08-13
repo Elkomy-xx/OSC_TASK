@@ -1,0 +1,47 @@
+ 1  mkdir ahmed
+    2  cd ahmed
+    3  touch one.text two.text three.text
+    4  touch four.text
+    5  mkdir BAD
+    6  cd BAD
+    7  touch bad.text
+    8  cd..
+    9  cd ..
+   10  cd ~
+   11  ls
+   12  cd ahmed
+   13  mv one.text /home/Downloads
+   14  mv one.text /home/osc/Downloads
+   15  ls
+   16  cd~
+   17  cd ~
+   18  ls
+   19  cd Downloads
+   20  ls
+   21  cp one.text
+   22  ls
+   23  history
+   24  cp one.text /home/osc/Downloads
+   25  cd Downloads
+   26  ls
+   27  cp one.text /home/osc/Download
+   28  lds
+   29  ls
+   30  cd Downloads
+   31  ls
+   32  cp one.text /home/osc/Downloads
+   33  ls
+   34  cp one.text Downloads
+   35  ls
+   36  rm Downloads
+   37  ls
+   38  cp one.text copy.text
+   39  ls
+   40  cd --
+   41  cd ahmed
+   42  nano two.text
+   43  cat two.text
+   44  nano three.text
+   45  mv three.text hello.text
+   46  rm four.text
+   47  rm -r BAD
