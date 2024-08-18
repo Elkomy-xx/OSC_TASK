@@ -1,0 +1,24 @@
+1- git config --global user.email Komy9000@gmail.com
+2-git clone https://github.com/Elkomy-xx/OSC_TASK
+3- cd Osc_Task
+mkdir task-2
+4-cd task-2
+touch greeting.txt
+5- nano greeting.txt
+hello world
+6- git add greeting.txt
+git commit greeting.txt
+Added greeting
+7-git branch intro
+git switch intro
+8-nano greeting.txt
+Hello world
+I love Git
+9-git commit greeting.txt
+Added I love Git
+10-git checkout main 
+git merge intro 
+11-git tag -u v1 [last-commit-code]
+12-git branch -m main
+git push -u origin main
+
