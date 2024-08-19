@@ -1,4 +1,5 @@
 1- git config --global user.email Komy9000@gmail.com
+git config --global user.name Elkomy-xx
 2-git clone https://github.com/Elkomy-xx/OSC_TASK
 3- cd Osc_Task
 mkdir task-2
